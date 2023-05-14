@@ -1,0 +1,5 @@
+ProductID	ProductName	Quantity	Price
+2	Guavas	6	10
+Total - 60
+
+

@@ -1,0 +1,7 @@
+
+New product with product id 3 added successfully
+Current Inventory:
+ProductID	ProductName	Quantity	Price
+   1	        Oranges	   5	     10
+   2	        Guavas	  20	     10 
+   3	        Melons	  50         10
